@@ -1,4 +1,4 @@
-import { BeforeEach, Case, Test } from '@nodearch/mocha';
+import { BeforeEach, Case, Test } from '@ghy_test_nodearch/mocha';
 import { UserService } from './user.service.js';
 import { expect } from 'chai';
 import { IUser } from './user.interface.js';

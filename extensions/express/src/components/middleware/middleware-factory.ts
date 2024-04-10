@@ -1,7 +1,7 @@
-import { Service } from '@nodearch/core';
+import { Service } from '@ghy_test_nodearch/core';
 import { ErrorRegistry } from '../errors/error-registry.js';
 import { IExpressMiddlewareHandler, IMiddlewareInfo, IMiddleware } from './interfaces.js';
-import { ComponentInfo } from '@nodearch/core/components';
+import { ComponentInfo } from '@ghy_test_nodearch/core/components';
 
 
 @Service()

@@ -1,5 +1,5 @@
-import { Service } from '@nodearch/core';
-import { OAISchema } from '@nodearch/openapi';
+import { Service } from '@ghy_test_nodearch/core';
+import { OAISchema } from '@ghy_test_nodearch/openapi';
 import { JoiSchema } from '../interfaces.js';
 import j2s from 'joi-to-swagger';
 

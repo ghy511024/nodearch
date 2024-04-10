@@ -1,7 +1,7 @@
-import { Config, ConfigManager } from '@nodearch/core';
+import { Config, ConfigManager } from '@ghy_test_nodearch/core';
 import { IHttpServerProvider, IServerSettings, ISocketAdapter, ISocketIOOptions } from '../interfaces.js';
 import { ServerOptions } from 'socket.io';
-import { ClassConstructor } from '@nodearch/core/utils';
+import { ClassConstructor } from '@ghy_test_nodearch/core/utils';
 
 
 @Config()

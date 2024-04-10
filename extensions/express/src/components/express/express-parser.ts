@@ -1,7 +1,7 @@
-import { AppContext, Service } from '@nodearch/core';
+import { AppContext, Service } from '@ghy_test_nodearch/core';
 import { IExpressInfo, IExpressRoute, IExpressRouteHandlerInput, IHttpMethodInfo } from './interfaces.js';
 import { IMiddlewareInfo } from '../middleware/interfaces.js';
-import { ComponentInfo, CoreDecorator, DecoratorType, IComponentDecorator } from '@nodearch/core/components';
+import { ComponentInfo, CoreDecorator, DecoratorType, IComponentDecorator } from '@ghy_test_nodearch/core/components';
 import { ExpressDecorator } from './enums.js';
 import { ExpressConfig } from './express.config.js';
 

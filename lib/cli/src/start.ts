@@ -1,4 +1,4 @@
-import { AppLoader, AppLoadMode } from '@nodearch/core/fs';
+import { AppLoader, AppLoadMode } from '@ghy_test_nodearch/core/fs';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
 
@@ -8,7 +8,7 @@ async function main() {
 
   // Try to load a local copy of the Cli
   try {
-    const localCliPath = path.join(process.cwd(), 'node_modules', '@nodearch', 'cli');
+    const localCliPath = path.join(process.cwd(), 'node_modules', '@ghy_test_nodearch', 'cli');
     const appLoader = new AppLoader({ cwd: pathToFileURL(localCliPath), loadMode: AppLoadMode.JS, initMode: 'start' });
     loaded = !!(await appLoader.load());
   }

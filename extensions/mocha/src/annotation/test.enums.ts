@@ -4,12 +4,12 @@ export enum TestMode {
 }
 
 export enum MochaAnnotation {
-  Test = '@nodearch/mocha/annotation/test',
-  Mock = '@nodearch/mocha/annotation/mock',
-  Override = '@nodearch/mocha/annotation/override',
-  BeforeAll = '@nodearch/mocha/annotation/before-all',
-  AfterAll = '@nodearch/mocha/annotation/after-all',
-  BeforeEach = '@nodearch/mocha/annotation/before-each',
-  AfterEach = '@nodearch/mocha/annotation/after-each',
-  Case = '@nodearch/mocha/annotation/case'
+  Test = '@ghy_test_nodearch/mocha/annotation/test',
+  Mock = '@ghy_test_nodearch/mocha/annotation/mock',
+  Override = '@ghy_test_nodearch/mocha/annotation/override',
+  BeforeAll = '@ghy_test_nodearch/mocha/annotation/before-all',
+  AfterAll = '@ghy_test_nodearch/mocha/annotation/after-all',
+  BeforeEach = '@ghy_test_nodearch/mocha/annotation/before-each',
+  AfterEach = '@ghy_test_nodearch/mocha/annotation/after-each',
+  Case = '@ghy_test_nodearch/mocha/annotation/case'
 }

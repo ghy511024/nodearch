@@ -1,4 +1,4 @@
-import { ClassConstructor } from '@nodearch/core/utils';
+import { ClassConstructor } from '@ghy_test_nodearch/core/utils';
 import { TestMode } from './test.enums.js';
 
 

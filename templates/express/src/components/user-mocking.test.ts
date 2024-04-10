@@ -1,4 +1,4 @@
-import { Case, Override, Test } from '@nodearch/mocha';
+import { Case, Override, Test } from '@ghy_test_nodearch/mocha';
 import { UserService } from './user.service.js';
 import { expect } from 'chai';
 import { UserRepoMock } from './user-repo.mock.js';

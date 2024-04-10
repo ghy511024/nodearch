@@ -1,7 +1,7 @@
-import { Controller, Use } from '@nodearch/core';
-import { HttpBody, HttpGet, HttpParam, HttpPath, HttpPost, HttpQuery } from "@nodearch/express";
-import { ValidationMiddleware } from '@nodearch/joi-express';
-import { Tags } from '@nodearch/openapi';
+import { Controller, Use } from '@ghy_test_nodearch/core';
+import { HttpBody, HttpGet, HttpParam, HttpPath, HttpPost, HttpQuery } from "@ghy_test_nodearch/express";
+import { ValidationMiddleware } from '@ghy_test_nodearch/joi-express';
+import { Tags } from '@ghy_test_nodearch/openapi';
 import { UserMiddleware } from './user.middleware.js';
 import { IUser } from './user.interface.js';
 import { UserService } from './user.service.js';

@@ -1,5 +1,5 @@
-import { ILogger } from '@nodearch/core';
-import { ClassConstructor } from '@nodearch/core/utils';
+import { ILogger } from '@ghy_test_nodearch/core';
+import { ClassConstructor } from '@ghy_test_nodearch/core/utils';
 import express from 'express';
 import { HttpError } from './http-errors.js';
 

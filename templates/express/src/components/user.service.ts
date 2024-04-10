@@ -1,4 +1,4 @@
-import { Service } from '@nodearch/core';
+import { Service } from '@ghy_test_nodearch/core';
 import { IUser } from './user.interface.js';
 import { UserRepository } from './user.repository.js';
 

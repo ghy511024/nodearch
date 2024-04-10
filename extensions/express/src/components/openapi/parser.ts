@@ -1,6 +1,6 @@
-import { Service } from '@nodearch/core';
-import { camelToTitle } from '@nodearch/core/utils';
-import { OAISchema, IOpenAPIAppMapItem, IOpenAPIProviderData, IOpenAPIAppRouteMap } from '@nodearch/openapi';
+import { Service } from '@ghy_test_nodearch/core';
+import { camelToTitle } from '@ghy_test_nodearch/core/utils';
+import { OAISchema, IOpenAPIAppMapItem, IOpenAPIProviderData, IOpenAPIAppRouteMap } from '@ghy_test_nodearch/openapi';
 import { HttpMethod } from '../express/enums.js';
 import { ExpressParser } from '../express/express-parser.js';
 import { ExpressConfig } from '../express/express.config.js';

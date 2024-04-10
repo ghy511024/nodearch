@@ -1,7 +1,7 @@
-import { AppContext, IExtensionProvider, Service } from '@nodearch/core';
-import { IOpenAPIProvider, IOpenAPIProviderData } from '@nodearch/openapi';
+import { AppContext, IExtensionProvider, Service } from '@ghy_test_nodearch/core';
+import { IOpenAPIProvider, IOpenAPIProviderData } from '@ghy_test_nodearch/openapi';
 import { ValidationMiddleware } from './validation.middleware.js';
-import { ExpressDecorator } from '@nodearch/express';
+import { ExpressDecorator } from '@ghy_test_nodearch/express';
 import { JoiOpenApiService } from './joi-openapi.service.js';
 
 

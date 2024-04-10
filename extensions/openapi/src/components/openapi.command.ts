@@ -1,5 +1,5 @@
-import { AppContext, Logger } from '@nodearch/core';
-import { Command, ICommand, ICommandBuilder } from '@nodearch/command';
+import { AppContext, Logger } from '@ghy_test_nodearch/core';
+import { Command, ICommand, ICommandBuilder } from '@ghy_test_nodearch/command';
 import { IOpenAPICommandOptions, OpenAPIFormat } from '../interfaces.js';
 import OAISchema from 'openapi3-ts';
 import { OpenAPI } from './openapi.js';
@@ -7,7 +7,7 @@ import path from 'path';
 import fs from 'fs/promises';
 import { OpenAPIConfig } from './openapi.config.js';
 import { fileURLToPath } from 'url';
-import { UrlParser } from '@nodearch/core/fs';
+import { UrlParser } from '@ghy_test_nodearch/core/fs';
 
 
 @Command({ export: true })

@@ -1,4 +1,4 @@
-import { AppLoadMode } from '@nodearch/core/fs';
+import { AppLoadMode } from '@ghy_test_nodearch/core/fs';
 
 
 export function getLoadMode() {

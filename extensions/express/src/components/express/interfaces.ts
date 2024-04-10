@@ -6,7 +6,7 @@ import https from 'node:https';
 import express from 'express';
 import { OptionsJson, OptionsText, OptionsUrlencoded } from 'body-parser';
 import { Stats } from 'node:fs';
-import { ComponentInfo } from '@nodearch/core/components';
+import { ComponentInfo } from '@ghy_test_nodearch/core/components';
 
 
 export interface IExpressAppOptions {

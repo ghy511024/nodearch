@@ -1,4 +1,4 @@
-# Change Log - @nodearch/swagger
+# Change Log - @ghy_test_nodearch/swagger
 
 This log was last generated on Wed, 27 Dec 2023 16:22:14 GMT and should not be manually modified.
 

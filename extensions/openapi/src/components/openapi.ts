@@ -1,6 +1,6 @@
-import { AppContext, Service } from '@nodearch/core';
-import * as utils from '@nodearch/core/utils';
-import { ClassConstructor } from '@nodearch/core/utils';
+import { AppContext, Service } from '@ghy_test_nodearch/core';
+import * as utils from '@ghy_test_nodearch/core/utils';
+import { ClassConstructor } from '@ghy_test_nodearch/core/utils';
 import OAISchema, { OpenAPIObject } from 'openapi3-ts';
 import { IOpenAPIAppMapItem, IOpenAPIAppRouteMap, IOpenAPIProvider, IOpenAPIProviderData } from '../interfaces.js';
 import { OpenAPIConfig } from './openapi.config.js';

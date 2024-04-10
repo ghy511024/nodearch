@@ -1,4 +1,4 @@
-import { AppContext, Hook, IHook, Logger } from '@nodearch/core';
+import { AppContext, Hook, IHook, Logger } from '@ghy_test_nodearch/core';
 import { SocketIOAdminUIConfig } from './socket-admin.config.js';
 import { instrument } from '@socket.io/admin-ui';
 

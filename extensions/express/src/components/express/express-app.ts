@@ -1,5 +1,5 @@
 import express from 'express';
-import { AppContext, Logger, Service } from '@nodearch/core';
+import { AppContext, Logger, Service } from '@ghy_test_nodearch/core';
 import { IExpressInfo, IExpressRoute, IExpressRouter, IHttpLogger } from './interfaces.js';
 import { RouteHandler } from './route-handler.js';
 import { MiddlewareFactory } from '../middleware/middleware-factory.js';
@@ -7,7 +7,7 @@ import { ExpressParser } from './express-parser.js';
 import { ExpressConfig } from './express.config.js';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { ClassConstructor } from '@nodearch/core/utils';
+import { ClassConstructor } from '@ghy_test_nodearch/core/utils';
 
 
 @Service()

@@ -3,7 +3,7 @@ import { EnforcerResponseMode } from '../enums.js';
 import axios from 'axios';
 import { KeycloakConfig } from './keycloak.config.js';
 import queryString from 'query-string';
-import { Service } from '@nodearch/core';
+import { Service } from '@ghy_test_nodearch/core';
 
 
 @Service({ export: true })

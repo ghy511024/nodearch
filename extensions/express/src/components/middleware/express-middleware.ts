@@ -1,4 +1,4 @@
-import { ComponentScope } from '@nodearch/core';
+import { ComponentScope } from '@ghy_test_nodearch/core';
 import { Middleware } from './decorators.js';
 import { IExpressMiddlewareHandlerOptions, IMiddleware } from './interfaces.js';
 

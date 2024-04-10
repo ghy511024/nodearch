@@ -1,5 +1,5 @@
-import { CommandDecorator, ICommand, CommandService } from '@nodearch/command';
-import { AppContext, Hook, IHook, Logger } from '@nodearch/core';
+import { CommandDecorator, ICommand, CommandService } from '@ghy_test_nodearch/command';
+import { AppContext, Hook, IHook, Logger } from '@ghy_test_nodearch/core';
 import { LocalAppService } from './local-app.service.js';
 
 

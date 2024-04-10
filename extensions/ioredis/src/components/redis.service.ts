@@ -1,4 +1,4 @@
-import { Service } from '@nodearch/core';
+import { Service } from '@ghy_test_nodearch/core';
 import { Redis } from 'ioredis';
 import { RedisConfig } from './redis.config.js';
 

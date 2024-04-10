@@ -5,15 +5,15 @@ export enum ComponentScope {
 }
 
 export enum CoreDecorator {
-  COMPONENT = '@nodearch/core/decorators/component',
-  COMMAND = '@nodearch/core/decorators/command',
-  HOOK = '@nodearch/core/decorators/hook',
-  CONFIG = '@nodearch/core/decorators/config',
-  SERVICE = '@nodearch/core/decorators/service',
-  REPOSITORY = '@nodearch/core/decorators/repository',
-  INTERCEPTOR = '@nodearch/core/decorators/interceptor',
-  CONTROLLER = '@nodearch/core/decorators/controller',
-  USE = '@nodearch/core/decorators/use',
+  COMPONENT = '@ghy_test_nodearch/core/decorators/component',
+  COMMAND = '@ghy_test_nodearch/core/decorators/command',
+  HOOK = '@ghy_test_nodearch/core/decorators/hook',
+  CONFIG = '@ghy_test_nodearch/core/decorators/config',
+  SERVICE = '@ghy_test_nodearch/core/decorators/service',
+  REPOSITORY = '@ghy_test_nodearch/core/decorators/repository',
+  INTERCEPTOR = '@ghy_test_nodearch/core/decorators/interceptor',
+  CONTROLLER = '@ghy_test_nodearch/core/decorators/controller',
+  USE = '@ghy_test_nodearch/core/decorators/use',
 }
 
 export enum DecoratorType {

@@ -1,4 +1,4 @@
-import { Middleware } from '@nodearch/express';
+import { Middleware } from '@ghy_test_nodearch/express';
 
 @Middleware()
 export class UserMiddleware {

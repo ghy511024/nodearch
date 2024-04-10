@@ -1,4 +1,4 @@
-import { Hook, IHook, Logger } from '@nodearch/core';
+import { Hook, IHook, Logger } from '@ghy_test_nodearch/core';
 import { RedisClient } from './redis.service.js';
 
 @Hook({ export: true })

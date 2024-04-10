@@ -1,4 +1,4 @@
-import { AppContext, Hook, IHook } from '@nodearch/core';
+import { AppContext, Hook, IHook } from '@ghy_test_nodearch/core';
 import { JoiDecorator } from '../enums.js';
 
 @Hook({ export: true })

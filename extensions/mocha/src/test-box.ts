@@ -1,5 +1,5 @@
-import { Container } from '@nodearch/core/components';
-import { ClassConstructor } from '@nodearch/core/utils';
+import { Container } from '@ghy_test_nodearch/core/components';
+import { ClassConstructor } from '@ghy_test_nodearch/core/utils';
 import { IComponentOverride } from './annotation/test.interfaces.js';
 
 

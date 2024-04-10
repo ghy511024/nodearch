@@ -1,5 +1,5 @@
 import express from 'express';
-import { Logger, Service } from '@nodearch/core';
+import { Logger, Service } from '@ghy_test_nodearch/core';
 import { HttpError, InternalServerError } from './http-errors.js';
 import { HttpErrorHandler, IHttpErrorsOptions } from './interfaces.js';
 import { ExpressConfig } from '../express/express.config.js';

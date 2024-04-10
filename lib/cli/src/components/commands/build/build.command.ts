@@ -1,5 +1,5 @@
-import { Command, ICommand } from '@nodearch/command';
-import { Logger } from '@nodearch/core';
+import { Command, ICommand } from '@ghy_test_nodearch/command';
+import { Logger } from '@ghy_test_nodearch/core';
 import { TscService } from './tsc.service.js';
 
 @Command()

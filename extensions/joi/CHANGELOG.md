@@ -1,4 +1,4 @@
-# Change Log - @nodearch/joi
+# Change Log - @ghy_test_nodearch/joi
 
 This log was last generated on Wed, 27 Mar 2024 19:38:53 GMT and should not be manually modified.
 

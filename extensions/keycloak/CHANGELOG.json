@@ -1,9 +1,9 @@
 {
-  "name": "@nodearch/keycloak",
+  "name": "@ghy_test_nodearch/keycloak",
   "entries": [
     {
       "version": "2.0.4",
-      "tag": "@nodearch/keycloak_v2.0.4",
+      "tag": "@ghy_test_nodearch/keycloak_v2.0.4",
       "date": "Wed, 27 Mar 2024 14:13:04 GMT",
       "comments": {
         "patch": [
@@ -24,7 +24,7 @@
     },
     {
       "version": "2.0.3",
-      "tag": "@nodearch/keycloak_v2.0.3",
+      "tag": "@ghy_test_nodearch/keycloak_v2.0.3",
       "date": "Thu, 11 Jan 2024 18:56:32 GMT",
       "comments": {
         "patch": [
@@ -38,7 +38,7 @@
     },
     {
       "version": "2.0.2",
-      "tag": "@nodearch/keycloak_v2.0.2",
+      "tag": "@ghy_test_nodearch/keycloak_v2.0.2",
       "date": "Wed, 27 Dec 2023 16:22:14 GMT",
       "comments": {
         "patch": [
@@ -52,7 +52,7 @@
     },
     {
       "version": "2.0.1",
-      "tag": "@nodearch/keycloak_v2.0.1",
+      "tag": "@ghy_test_nodearch/keycloak_v2.0.1",
       "date": "Wed, 27 Dec 2023 14:09:55 GMT",
       "comments": {
         "patch": [
@@ -66,7 +66,7 @@
     },
     {
       "version": "2.0.0",
-      "tag": "@nodearch/keycloak_v2.0.0",
+      "tag": "@ghy_test_nodearch/keycloak_v2.0.0",
       "date": "Mon, 23 Oct 2023 17:06:39 GMT",
       "comments": {
         "major": [

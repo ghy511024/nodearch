@@ -1,4 +1,4 @@
-import { Logger, Service } from '@nodearch/core';
+import { Logger, Service } from '@ghy_test_nodearch/core';
 import { ExpressConfig } from './express.config.js';
 import http from 'node:http';
 import https from 'node:https';

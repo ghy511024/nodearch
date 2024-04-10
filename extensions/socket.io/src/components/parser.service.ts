@@ -1,9 +1,9 @@
-import { AppContext, Logger, Service } from '@nodearch/core';
+import { AppContext, Logger, Service } from '@ghy_test_nodearch/core';
 import { SocketIODecorator } from '../enums.js';
-import { ClassConstructor } from '@nodearch/core/utils';
+import { ClassConstructor } from '@ghy_test_nodearch/core/utils';
 import { INamespaceMap, ISubscriptionInfo, ISubscriptionOptions, INamespaceInfo, IEventHandlerInput } from '../interfaces.js';
 import { DefaultNamespace } from './default-namespace.js';
-import { ComponentFactory, ComponentInfo, IComponentDecoratorInfo } from '@nodearch/core/components';
+import { ComponentFactory, ComponentInfo, IComponentDecoratorInfo } from '@ghy_test_nodearch/core/components';
 
 
 /**

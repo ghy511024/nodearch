@@ -1,7 +1,7 @@
-import { Config, ConfigManager, IExtensionProviderComponent } from '@nodearch/core';
+import { Config, ConfigManager, IExtensionProviderComponent } from '@ghy_test_nodearch/core';
 import { RedisAdapterOptions } from '@socket.io/redis-adapter';
 import { IRedisAdapterOptions } from '../interfaces.js';
-import { ClassConstructor } from '@nodearch/core/utils';
+import { ClassConstructor } from '@ghy_test_nodearch/core/utils';
 import { ShardedRedisAdapterOptions } from '@socket.io/redis-adapter/dist/sharded-adapter.js';
 
 

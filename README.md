@@ -6,20 +6,20 @@
   <a href="https://nodearch.io" target="_blank">
     <img alt="Programming Language" src="https://img.shields.io/badge/typescript-100%25-blue.svg" />
   </a>
-  <a href="https://www.npmjs.com/package/@nodearch/core" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/@nodearch/core.svg?label=Version" />
+  <a href="https://www.npmjs.com/package/@ghy_test_nodearch/core" target="_blank">
+    <img alt="Version" src="https://img.shields.io/npm/v/@ghy_test_nodearch/core.svg?label=Version" />
   </a>
   <a href="https://github.com/BlueMax-IO/nodearch/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <a href="https://https://www.npmjs.com/package/@nodearch/core" target="_blank">
-    <img alt="Downloads" src="https://img.shields.io/npm/dt/@nodearch/core.svg" />
+  <a href="https://https://www.npmjs.com/package/@ghy_test_nodearch/core" target="_blank">
+    <img alt="Downloads" src="https://img.shields.io/npm/dt/@ghy_test_nodearch/core.svg" />
   </a>
   <a href="https://coveralls.io/github/nodearch/core?branch=master" target="_blank">
     <img alt="Code Coverage" src="https://coveralls.io/repos/github/BlueMax-IO/nodearch/badge.svg?branch=master" />
   </a>
-  <a href="https://img.shields.io/snyk/vulnerabilities/npm/@nodearch/core" target="_blank">
-    <img alt="Vulnerabilities" src="https://img.shields.io/snyk/vulnerabilities/npm/@nodearch/core.svg" />
+  <a href="https://img.shields.io/snyk/vulnerabilities/npm/@ghy_test_nodearch/core" target="_blank">
+    <img alt="Vulnerabilities" src="https://img.shields.io/snyk/vulnerabilities/npm/@ghy_test_nodearch/core.svg" />
   </a>
   <a href="https://www.codefactor.io/repository/github/ahmedali7o1/nodearch" target="_blank">
     <img src="https://www.codefactor.io/repository/github/ahmedali7o1/nodearch/badge" alt="CodeFactor" />
@@ -50,7 +50,7 @@ NodeArch is a backend framework for Node.js that aims to address design and arch
 To create new NodeArch apps, you need to install the NodeArch command-line interface (CLI) on your machine. To do this, open your terminal and run the following command:
 
 ```sh
-npm i -g @nodearch/cli
+npm i -g @ghy_test_nodearch/cli
 ```
 
 Once you have installed the NodeArch command-line interface (CLI), you can use it to see the available options and usage instructions. To do this, open your terminal and run the following command:

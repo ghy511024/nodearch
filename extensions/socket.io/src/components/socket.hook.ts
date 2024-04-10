@@ -1,4 +1,4 @@
-import { Hook, Logger } from '@nodearch/core';
+import { Hook, Logger } from '@ghy_test_nodearch/core';
 import { SocketService } from './socket.service.js';
 
 

@@ -1,4 +1,4 @@
-import { IExtensionProvider, Service } from '@nodearch/core';
+import { IExtensionProvider, Service } from '@ghy_test_nodearch/core';
 import { Redis } from 'ioredis';
 import { RedisConfig } from './redis.config.js';
 

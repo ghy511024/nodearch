@@ -1,5 +1,5 @@
-import { Command, ICommand } from '@nodearch/command';
-import { AppContext, Logger } from '@nodearch/core';
+import { Command, ICommand } from '@ghy_test_nodearch/command';
+import { AppContext, Logger } from '@ghy_test_nodearch/core';
 import nodemon from 'nodemon';
 import path from 'path';
 import { fileURLToPath } from 'url';

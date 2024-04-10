@@ -1,5 +1,5 @@
 import Joi from 'joi';
-import { Middleware, IMiddleware, BadRequest } from '@nodearch/express';
+import { Middleware, IMiddleware, BadRequest } from '@ghy_test_nodearch/express';
 import { IJoiSchemaKeys, JoiSchema } from '../interfaces.js';
 import { JoiExpressConfig } from './joi-express.config.js';
 

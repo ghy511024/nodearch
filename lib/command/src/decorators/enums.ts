@@ -1,5 +1,5 @@
 export enum CommandDecorator {
-  COMMAND = '@nodearch/command/decorators/command'
+  COMMAND = '@ghy_test_nodearch/command/decorators/command'
 }
 
 export enum QuestionType {

@@ -1,4 +1,4 @@
-import { AppLoader, AppLoadMode } from '@nodearch/core/fs';
+import { AppLoader, AppLoadMode } from '@ghy_test_nodearch/core/fs';
 
 let rootDir = process.argv.find(x => x.startsWith('rootDir='));
 

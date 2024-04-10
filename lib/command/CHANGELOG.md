@@ -1,4 +1,4 @@
-# Change Log - @nodearch/command
+# Change Log - @ghy_test_nodearch/command
 
 This log was last generated on Wed, 27 Mar 2024 14:13:04 GMT and should not be manually modified.
 

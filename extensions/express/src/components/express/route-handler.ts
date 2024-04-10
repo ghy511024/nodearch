@@ -1,5 +1,5 @@
 import express from 'express';
-import { Service } from '@nodearch/core';
+import { Service } from '@ghy_test_nodearch/core';
 import { ErrorRegistry } from '../errors/error-registry.js';
 import { InternalServerError } from '../errors/http-errors.js';
 import { RouteHandlerParam } from './enums.js';

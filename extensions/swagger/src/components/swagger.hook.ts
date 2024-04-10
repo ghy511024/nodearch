@@ -1,4 +1,4 @@
-import { Hook, IHook } from '@nodearch/core';
+import { Hook, IHook } from '@ghy_test_nodearch/core';
 import { SwaggerOptions } from './swagger-options.js';
 
 

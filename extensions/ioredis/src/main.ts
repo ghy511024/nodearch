@@ -1,4 +1,4 @@
-import { App, ComponentScope } from '@nodearch/core';
+import { App, ComponentScope } from '@ghy_test_nodearch/core';
 import { RedisOptions } from 'ioredis';
 
 

@@ -1,6 +1,6 @@
-import { IAdapter } from '@nodearch/socket.io';
+import { IAdapter } from '@ghy_test_nodearch/socket.io';
 import { createAdapter, createShardedAdapter } from '@socket.io/redis-adapter';
-import { AppContext, IExtensionProvider, Service } from '@nodearch/core';
+import { AppContext, IExtensionProvider, Service } from '@ghy_test_nodearch/core';
 import { AdapterConfig } from './adapter.config.js';
 
 

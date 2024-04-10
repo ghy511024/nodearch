@@ -1,5 +1,5 @@
-import { toCamelCase } from '@nodearch/core/utils';
-import { Command, ICommandBuilder, ICommand } from '@nodearch/command';
+import { toCamelCase } from '@ghy_test_nodearch/core/utils';
+import { Command, ICommandBuilder, ICommand } from '@ghy_test_nodearch/command';
 import { MochaService } from './mocha.service.js';
 import { testOptions } from './test.options.js';
 

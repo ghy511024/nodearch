@@ -1,11 +1,11 @@
-import { ComponentInfo } from '@nodearch/core/components';
-import { ClassConstructor } from '@nodearch/core/utils';
+import { ComponentInfo } from '@ghy_test_nodearch/core/components';
+import { ClassConstructor } from '@ghy_test_nodearch/core/utils';
 import http from 'node:http';
 import https from 'node:https';
 import { ServerOptions } from 'socket.io';
 import { SocketIOServerProvider } from './components/server.provider.js';
 import * as IO from 'socket.io';
-import { IExtensionProviderComponent } from '@nodearch/core';
+import { IExtensionProviderComponent } from '@ghy_test_nodearch/core';
 
 
 export interface ISocketIOOptions {

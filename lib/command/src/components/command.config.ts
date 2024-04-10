@@ -1,4 +1,4 @@
-import { Config, ConfigManager, ConfigType } from '@nodearch/core';
+import { Config, ConfigManager, ConfigType } from '@ghy_test_nodearch/core';
 import { ICommandOptionsBuilder } from '../decorators/yargs.interfaces.js';
 
 

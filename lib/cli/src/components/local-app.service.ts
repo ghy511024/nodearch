@@ -1,5 +1,5 @@
-import { Logger, Service } from '@nodearch/core';
-import { AppLoader } from '@nodearch/core/fs';
+import { Logger, Service } from '@ghy_test_nodearch/core';
+import { AppLoader } from '@ghy_test_nodearch/core/fs';
 import { cwd } from 'node:process';
 import { pathToFileURL } from 'node:url';
 import { getLoadMode } from '../utils/load-mode.js';

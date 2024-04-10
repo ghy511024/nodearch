@@ -1,4 +1,4 @@
-import { AppContext, IExtensionProvider, Service } from '@nodearch/core';
+import { AppContext, IExtensionProvider, Service } from '@ghy_test_nodearch/core';
 import { IOpenAPIProvider, IOpenAPIProviderData, OpenApiDecorator } from '../index.js';
 
 @Service({ export: true })

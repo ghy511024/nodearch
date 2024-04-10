@@ -1,7 +1,7 @@
 export enum OpenApiDecorator {
-  RESPONSES = '@nodearch/openapi/decorators/responses',
-  REQUEST_BODY = '@nodearch/openapi/decorators/request-body',
-  ROUTE_INFO = '@nodearch/openapi/decorators/route-info',
-  SERVERS = '@nodearch/openapi/decorators/servers',
-  TAGS = '@nodearch/openapi/decorators/tags'
+  RESPONSES = '@ghy_test_nodearch/openapi/decorators/responses',
+  REQUEST_BODY = '@ghy_test_nodearch/openapi/decorators/request-body',
+  ROUTE_INFO = '@ghy_test_nodearch/openapi/decorators/route-info',
+  SERVERS = '@ghy_test_nodearch/openapi/decorators/servers',
+  TAGS = '@ghy_test_nodearch/openapi/decorators/tags'
 }

@@ -1,4 +1,4 @@
-import { Service, IExtensionProvider } from '@nodearch/core';
+import { Service, IExtensionProvider } from '@ghy_test_nodearch/core';
 import { ExpressServer } from './express-server.js';
 
 

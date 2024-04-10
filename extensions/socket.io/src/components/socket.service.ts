@@ -1,4 +1,4 @@
-import { AppContext, Logger, Service } from '@nodearch/core';
+import { AppContext, Logger, Service } from '@ghy_test_nodearch/core';
 import { SocketConfig } from './socket.config.js';
 import * as IO from 'socket.io';
 import http from 'http';
@@ -7,7 +7,7 @@ import { ParserService } from './parser.service.js';
 import { RegistryService } from './registry.service.js';
 // import { ServerPatch } from './server-patches.js';
 import { IAdapter, IHttpServerProvider, INamespaceMap, INativeAdapter } from '../interfaces.js';
-import { ComponentFactory } from '@nodearch/core/components';
+import { ComponentFactory } from '@ghy_test_nodearch/core/components';
 
 
 @Service()

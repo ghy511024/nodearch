@@ -1,6 +1,6 @@
 import Joi from 'joi';
 import { JoiProvider } from './index.js';
-import { ClassConstructor } from '@nodearch/core/utils';
+import { ClassConstructor } from '@ghy_test_nodearch/core/utils';
 
 
 export interface IJoiAppOptions {}

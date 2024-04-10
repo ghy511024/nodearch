@@ -1,7 +1,7 @@
-import { ClassMethodDecorator } from '@nodearch/core/utils';
+import { ClassMethodDecorator } from '@ghy_test_nodearch/core/utils';
 import OAISchema from 'openapi3-ts';
 import { OpenApiDecorator } from '../enums.js';
-import { ComponentFactory } from '@nodearch/core/components';
+import { ComponentFactory } from '@ghy_test_nodearch/core/components';
 
 
 export const Servers = (options: OAISchema.ServerObject[]): ClassDecorator =>

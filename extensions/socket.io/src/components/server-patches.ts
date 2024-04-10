@@ -1,7 +1,7 @@
-import { Service } from '@nodearch/core';
+import { Service } from '@ghy_test_nodearch/core';
 import { INamespaceInfo, INamespaceMap, ParentNspNameMatchFn } from '../interfaces.js';
 import * as IO from 'socket.io';
-import { ComponentInfo } from '@nodearch/core/components';
+import { ComponentInfo } from '@ghy_test_nodearch/core/components';
 import { RegistryService } from './registry.service.js';
 
 @Service()

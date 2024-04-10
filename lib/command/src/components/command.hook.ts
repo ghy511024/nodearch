@@ -1,4 +1,4 @@
-import { Hook, IHook } from '@nodearch/core';
+import { Hook, IHook } from '@ghy_test_nodearch/core';
 import { CommandConfig } from './command.config.js';
 import { CommandService } from './command.service.js';
 

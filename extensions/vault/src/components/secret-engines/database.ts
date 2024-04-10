@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { Service } from '@nodearch/core';
+import { Service } from '@ghy_test_nodearch/core';
 import { VaultConfig } from '../vault.config.js';
 import { IDBGetCredsOptions, IDBGetCredsResponse } from '../../interfaces.js';
 import { VaultError } from '../../vault.error.js';

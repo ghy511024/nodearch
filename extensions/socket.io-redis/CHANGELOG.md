@@ -1,4 +1,4 @@
-# Change Log - @nodearch/socket.io-redis
+# Change Log - @ghy_test_nodearch/socket.io-redis
 
 This log was last generated on Wed, 27 Mar 2024 20:18:47 GMT and should not be manually modified.
 

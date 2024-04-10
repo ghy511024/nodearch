@@ -1,4 +1,4 @@
-import { Config, ConfigManager } from '@nodearch/core';
+import { Config, ConfigManager } from '@ghy_test_nodearch/core';
 import OAISchema from 'openapi3-ts';
 import { IOpenAPIProviderConstructor, OpenAPIFormat } from '../interfaces.js';
 

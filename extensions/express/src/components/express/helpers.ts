@@ -1,4 +1,4 @@
-import { ComponentFactory } from '@nodearch/core/components';
+import { ComponentFactory } from '@ghy_test_nodearch/core/components';
 import { ExpressDecorator, HttpMethod, RouteHandlerParam } from './enums.js';
 import { IHttpMethodInfo } from './interfaces.js';
 

@@ -1,7 +1,7 @@
 import path from 'node:path';
-import { Command, QuestionType, ICommand } from '@nodearch/command';
+import { Command, QuestionType, ICommand } from '@ghy_test_nodearch/command';
 import { GitHubService } from './github.service.js';
-import { Logger } from '@nodearch/core';
+import { Logger } from '@ghy_test_nodearch/core';
 import { NpmService } from './npm.service.js';
 
 

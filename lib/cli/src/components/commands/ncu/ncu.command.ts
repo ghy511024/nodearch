@@ -1,9 +1,9 @@
-import { Command, ICommand, ICommandBuilder } from '@nodearch/command';
+import { Command, ICommand, ICommandBuilder } from '@ghy_test_nodearch/command';
 import { fileURLToPath } from 'node:url';
 import ncu from 'npm-check-updates';
 import { LocalAppService } from '../../local-app.service.js';
 import { INcuOptions } from './ncu.interfaces.js';
-import { Logger } from '@nodearch/core';
+import { Logger } from '@ghy_test_nodearch/core';
 import { NpmService } from '../new/npm.service.js';
 
 

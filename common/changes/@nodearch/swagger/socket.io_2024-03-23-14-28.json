@@ -1,10 +1,10 @@
 {
   "changes": [
     {
-      "packageName": "@nodearch/swagger",
+      "packageName": "@ghy_test_nodearch/swagger",
       "comment": "update license",
       "type": "none"
     }
   ],
-  "packageName": "@nodearch/swagger"
+  "packageName": "@ghy_test_nodearch/swagger"
 }

@@ -1,5 +1,5 @@
-import { Controller, Service, Use } from '@nodearch/core';
-import { Subscribe, NamespaceProvider, Namespace, SocketInfo, EventData, IO, INamespace } from '@nodearch/socket.io';
+import { Controller, Service, Use } from '@ghy_test_nodearch/core';
+import { Subscribe, NamespaceProvider, Namespace, SocketInfo, EventData, IO, INamespace } from '@ghy_test_nodearch/socket.io';
 
 const sleep = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
 

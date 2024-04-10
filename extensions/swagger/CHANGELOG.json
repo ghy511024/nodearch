@@ -1,9 +1,9 @@
 {
-  "name": "@nodearch/swagger",
+  "name": "@ghy_test_nodearch/swagger",
   "entries": [
     {
       "version": "1.0.6",
-      "tag": "@nodearch/swagger_v1.0.6",
+      "tag": "@ghy_test_nodearch/swagger_v1.0.6",
       "date": "Wed, 27 Dec 2023 16:22:14 GMT",
       "comments": {
         "patch": [
@@ -17,7 +17,7 @@
     },
     {
       "version": "1.0.5",
-      "tag": "@nodearch/swagger_v1.0.5",
+      "tag": "@ghy_test_nodearch/swagger_v1.0.5",
       "date": "Wed, 27 Dec 2023 14:09:55 GMT",
       "comments": {
         "patch": [
@@ -31,7 +31,7 @@
     },
     {
       "version": "1.0.4",
-      "tag": "@nodearch/swagger_v1.0.4",
+      "tag": "@ghy_test_nodearch/swagger_v1.0.4",
       "date": "Sun, 15 Oct 2023 22:33:54 GMT",
       "comments": {
         "patch": [
@@ -43,17 +43,17 @@
         ],
         "dependency": [
           {
-            "comment": "Updating dependency \"@nodearch/core\" from `^2.0.1` to `^2.0.2`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/core\" from `^2.0.1` to `^2.0.2`"
           },
           {
-            "comment": "Updating dependency \"@nodearch/core\" from `2.x` to `2.0.2`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/core\" from `2.x` to `2.0.2`"
           }
         ]
       }
     },
     {
       "version": "1.0.3",
-      "tag": "@nodearch/swagger_v1.0.3",
+      "tag": "@ghy_test_nodearch/swagger_v1.0.3",
       "date": "Sun, 15 Oct 2023 19:57:52 GMT",
       "comments": {
         "patch": [
@@ -67,7 +67,7 @@
     },
     {
       "version": "1.0.2",
-      "tag": "@nodearch/swagger_v1.0.2",
+      "tag": "@ghy_test_nodearch/swagger_v1.0.2",
       "date": "Sun, 15 Oct 2023 19:42:51 GMT",
       "comments": {
         "patch": [
@@ -81,7 +81,7 @@
     },
     {
       "version": "1.0.1",
-      "tag": "@nodearch/swagger_v1.0.1",
+      "tag": "@ghy_test_nodearch/swagger_v1.0.1",
       "date": "Sun, 08 Oct 2023 22:22:19 GMT",
       "comments": {
         "patch": [
@@ -95,7 +95,7 @@
     },
     {
       "version": "1.0.0",
-      "tag": "@nodearch/swagger_v1.0.0",
+      "tag": "@ghy_test_nodearch/swagger_v1.0.0",
       "date": "Thu, 05 Oct 2023 19:43:23 GMT",
       "comments": {
         "major": [
@@ -107,10 +107,10 @@
         ],
         "dependency": [
           {
-            "comment": "Updating dependency \"@nodearch/core\" from `^1.4.2` to `^2.0.0`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/core\" from `^1.4.2` to `^2.0.0`"
           },
           {
-            "comment": "Updating dependency \"@nodearch/core\" from `1.4.2` to `2.0.0`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/core\" from `1.4.2` to `2.0.0`"
           }
         ]
       }

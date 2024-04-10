@@ -2,7 +2,7 @@ import 'reflect-metadata';
 
 export abstract class MetadataInfo {
 
-  static readonly PREFIX = '@nodearch/core/';
+  static readonly PREFIX = '@ghy_test_nodearch/core/';
 
   static getClassMetadata(key: string, target: any) {
     return Reflect.getMetadata(MetadataInfo.PREFIX + key, target);

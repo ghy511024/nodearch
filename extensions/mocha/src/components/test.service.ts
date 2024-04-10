@@ -1,9 +1,9 @@
-import { App, AppContext, Service } from '@nodearch/core';
-import { ComponentInfo, Container } from '@nodearch/core/components';
+import { App, AppContext, Service } from '@ghy_test_nodearch/core';
+import { ComponentInfo, Container } from '@ghy_test_nodearch/core/components';
 import { TestBox } from '../test-box.js';
 import { MochaAnnotation, TestMode } from '../annotation/test.enums.js';
 import { ITestCaseOptions, ITestSuiteOptions, TestHook } from '../annotation/test.interfaces.js';
-import { AppLoader, AppLoadMode } from '@nodearch/core/fs';
+import { AppLoader, AppLoadMode } from '@ghy_test_nodearch/core/fs';
 
 
 @Service()

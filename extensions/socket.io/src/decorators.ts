@@ -1,7 +1,7 @@
-import { ComponentFactory, IComponentOptions } from '@nodearch/core/components';
+import { ComponentFactory, IComponentOptions } from '@ghy_test_nodearch/core/components';
 import { SocketIODecorator } from './enums.js';
 import { NamespaceName } from './interfaces.js';
-import { ClassConstructor } from '@nodearch/core/utils';
+import { ClassConstructor } from '@ghy_test_nodearch/core/utils';
 
 
 export function Subscribe(eventName: string) {

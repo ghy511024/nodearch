@@ -1,6 +1,6 @@
-import { Config, ConfigManager } from '@nodearch/core';
+import { Config, ConfigManager } from '@ghy_test_nodearch/core';
 import { AdminUIOptions, SocketIOAdminUIOptions } from '../interfaces.js';
-import { ISocketIOServerProvider } from '@nodearch/socket.io';
+import { ISocketIOServerProvider } from '@ghy_test_nodearch/socket.io';
 
 @Config()
 export class SocketIOAdminUIConfig implements SocketIOAdminUIOptions {

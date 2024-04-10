@@ -7,59 +7,59 @@
       "allowedCategories": [ "production" ]
     },
     {
-      "name": "@nodearch/cli",
+      "name": "@ghy_test_nodearch/cli",
       "allowedCategories": [ "production", "prototypes" ]
     },
     {
-      "name": "@nodearch/command",
+      "name": "@ghy_test_nodearch/command",
       "allowedCategories": [ "production", "prototypes" ]
     },
     {
-      "name": "@nodearch/core",
+      "name": "@ghy_test_nodearch/core",
       "allowedCategories": [ "production", "prototypes" ]
     },
     {
-      "name": "@nodearch/express",
+      "name": "@ghy_test_nodearch/express",
       "allowedCategories": [ "production", "prototypes" ]
     },
     {
-      "name": "@nodearch/ioredis",
+      "name": "@ghy_test_nodearch/ioredis",
       "allowedCategories": [ "prototypes" ]
     },
     {
-      "name": "@nodearch/joi",
+      "name": "@ghy_test_nodearch/joi",
       "allowedCategories": [ "production", "prototypes" ]
     },
     {
-      "name": "@nodearch/joi-express",
+      "name": "@ghy_test_nodearch/joi-express",
       "allowedCategories": [ "prototypes" ]
     },
     {
-      "name": "@nodearch/mocha",
+      "name": "@ghy_test_nodearch/mocha",
       "allowedCategories": [ "prototypes" ]
     },
     {
-      "name": "@nodearch/openapi",
+      "name": "@ghy_test_nodearch/openapi",
       "allowedCategories": [ "production", "prototypes" ]
     },
     {
-      "name": "@nodearch/server",
+      "name": "@ghy_test_nodearch/server",
       "allowedCategories": [ "production" ]
     },
     {
-      "name": "@nodearch/socket.io",
+      "name": "@ghy_test_nodearch/socket.io",
       "allowedCategories": [ "production", "prototypes" ]
     },
     {
-      "name": "@nodearch/socket.io-admin-ui",
+      "name": "@ghy_test_nodearch/socket.io-admin-ui",
       "allowedCategories": [ "prototypes" ]
     },
     {
-      "name": "@nodearch/socket.io-redis",
+      "name": "@ghy_test_nodearch/socket.io-redis",
       "allowedCategories": [ "prototypes" ]
     },
     {
-      "name": "@nodearch/swagger",
+      "name": "@ghy_test_nodearch/swagger",
       "allowedCategories": [ "prototypes" ]
     },
     {

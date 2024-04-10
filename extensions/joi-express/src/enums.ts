@@ -1,3 +1,3 @@
 export enum JoiDecorator {
-  VALIDATE = '@nodearch/joi-express/decorators/validate'
+  VALIDATE = '@ghy_test_nodearch/joi-express/decorators/validate'
 }

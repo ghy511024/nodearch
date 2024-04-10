@@ -1,5 +1,5 @@
-import { App, LogLevel } from '@nodearch/core';
-import { CommandApp } from '@nodearch/command';
+import { App, LogLevel } from '@ghy_test_nodearch/core';
+import { CommandApp } from '@ghy_test_nodearch/command';
 
 export class Cli extends App {
   constructor() {

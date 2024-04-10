@@ -1,4 +1,4 @@
-import { Repository } from '@nodearch/core';
+import { Repository } from '@ghy_test_nodearch/core';
 import { IUser } from './user.interface.js';
 
 @Repository()

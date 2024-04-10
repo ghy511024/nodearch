@@ -1,5 +1,5 @@
-import { Service, IExtensionProvider } from '@nodearch/core';
-import { IOpenAPIProvider } from '@nodearch/openapi';
+import { Service, IExtensionProvider } from '@ghy_test_nodearch/core';
+import { IOpenAPIProvider } from '@ghy_test_nodearch/openapi';
 import { OpenAPIParser } from './parser.js';
 
 @Service({ export: true })

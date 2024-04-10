@@ -1,9 +1,9 @@
 {
-  "name": "@nodearch/mocha",
+  "name": "@ghy_test_nodearch/mocha",
   "entries": [
     {
       "version": "1.0.8",
-      "tag": "@nodearch/mocha_v1.0.8",
+      "tag": "@ghy_test_nodearch/mocha_v1.0.8",
       "date": "Wed, 27 Mar 2024 14:13:04 GMT",
       "comments": {
         "patch": [
@@ -22,14 +22,14 @@
         ],
         "dependency": [
           {
-            "comment": "Updating dependency \"@nodearch/command\" from `^1.0.6` to `1.0.7`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/command\" from `^1.0.6` to `1.0.7`"
           }
         ]
       }
     },
     {
       "version": "1.0.7",
-      "tag": "@nodearch/mocha_v1.0.7",
+      "tag": "@ghy_test_nodearch/mocha_v1.0.7",
       "date": "Wed, 27 Dec 2023 16:22:14 GMT",
       "comments": {
         "patch": [
@@ -41,14 +41,14 @@
         ],
         "dependency": [
           {
-            "comment": "Updating dependency \"@nodearch/command\" from `^1.0.5` to `^1.0.6`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/command\" from `^1.0.5` to `^1.0.6`"
           }
         ]
       }
     },
     {
       "version": "1.0.6",
-      "tag": "@nodearch/mocha_v1.0.6",
+      "tag": "@ghy_test_nodearch/mocha_v1.0.6",
       "date": "Wed, 27 Dec 2023 14:09:55 GMT",
       "comments": {
         "patch": [
@@ -60,14 +60,14 @@
         ],
         "dependency": [
           {
-            "comment": "Updating dependency \"@nodearch/command\" from `^1.0.4` to `^1.0.5`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/command\" from `^1.0.4` to `^1.0.5`"
           }
         ]
       }
     },
     {
       "version": "1.0.5",
-      "tag": "@nodearch/mocha_v1.0.5",
+      "tag": "@ghy_test_nodearch/mocha_v1.0.5",
       "date": "Sun, 15 Oct 2023 22:33:54 GMT",
       "comments": {
         "patch": [
@@ -79,20 +79,20 @@
         ],
         "dependency": [
           {
-            "comment": "Updating dependency \"@nodearch/command\" from `^1.0.3` to `^1.0.4`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/command\" from `^1.0.3` to `^1.0.4`"
           },
           {
-            "comment": "Updating dependency \"@nodearch/core\" from `^2.0.1` to `^2.0.2`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/core\" from `^2.0.1` to `^2.0.2`"
           },
           {
-            "comment": "Updating dependency \"@nodearch/core\" from `2.x` to `2.0.2`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/core\" from `2.x` to `2.0.2`"
           }
         ]
       }
     },
     {
       "version": "1.0.4",
-      "tag": "@nodearch/mocha_v1.0.4",
+      "tag": "@ghy_test_nodearch/mocha_v1.0.4",
       "date": "Sun, 15 Oct 2023 19:42:51 GMT",
       "comments": {
         "patch": [
@@ -104,14 +104,14 @@
         ],
         "dependency": [
           {
-            "comment": "Updating dependency \"@nodearch/command\" from `^1.0.2` to `^1.0.3`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/command\" from `^1.0.2` to `^1.0.3`"
           }
         ]
       }
     },
     {
       "version": "1.0.3",
-      "tag": "@nodearch/mocha_v1.0.3",
+      "tag": "@ghy_test_nodearch/mocha_v1.0.3",
       "date": "Sun, 15 Oct 2023 16:38:29 GMT",
       "comments": {
         "patch": [
@@ -123,14 +123,14 @@
         ],
         "dependency": [
           {
-            "comment": "Updating dependency \"@nodearch/command\" from `^1.0.1` to `^1.0.2`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/command\" from `^1.0.1` to `^1.0.2`"
           }
         ]
       }
     },
     {
       "version": "1.0.2",
-      "tag": "@nodearch/mocha_v1.0.2",
+      "tag": "@ghy_test_nodearch/mocha_v1.0.2",
       "date": "Sun, 15 Oct 2023 13:38:46 GMT",
       "comments": {
         "patch": [
@@ -142,20 +142,20 @@
         ],
         "dependency": [
           {
-            "comment": "Updating dependency \"@nodearch/command\" from `^1.0.0` to `^1.0.1`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/command\" from `^1.0.0` to `^1.0.1`"
           },
           {
-            "comment": "Updating dependency \"@nodearch/core\" from `^2.0.0` to `^2.0.1`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/core\" from `^2.0.0` to `^2.0.1`"
           },
           {
-            "comment": "Updating dependency \"@nodearch/core\" from `2.x` to `2.0.1`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/core\" from `2.x` to `2.0.1`"
           }
         ]
       }
     },
     {
       "version": "1.0.1",
-      "tag": "@nodearch/mocha_v1.0.1",
+      "tag": "@ghy_test_nodearch/mocha_v1.0.1",
       "date": "Sun, 08 Oct 2023 23:12:35 GMT",
       "comments": {
         "patch": [
@@ -169,7 +169,7 @@
     },
     {
       "version": "1.0.0",
-      "tag": "@nodearch/mocha_v1.0.0",
+      "tag": "@ghy_test_nodearch/mocha_v1.0.0",
       "date": "Thu, 05 Oct 2023 19:43:23 GMT",
       "comments": {
         "major": [
@@ -181,10 +181,10 @@
         ],
         "dependency": [
           {
-            "comment": "Updating dependency \"@nodearch/core\" from `^1.4.2` to `^2.0.0`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/core\" from `^1.4.2` to `^2.0.0`"
           },
           {
-            "comment": "Updating dependency \"@nodearch/command\" from `^0.1.0` to `^1.0.0`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/command\" from `^0.1.0` to `^1.0.0`"
           }
         ]
       }

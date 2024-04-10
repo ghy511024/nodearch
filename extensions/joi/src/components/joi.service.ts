@@ -1,4 +1,4 @@
-import { Service } from '@nodearch/core';
+import { Service } from '@ghy_test_nodearch/core';
 
 @Service()
 export class JoiService {

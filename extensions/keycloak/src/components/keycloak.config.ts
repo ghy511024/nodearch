@@ -1,4 +1,4 @@
-import { Config, ConfigManager } from '@nodearch/core';
+import { Config, ConfigManager } from '@ghy_test_nodearch/core';
 import { VerifyOptions } from 'jsonwebtoken';
 import { IJWT } from '../interfaces.js';
 

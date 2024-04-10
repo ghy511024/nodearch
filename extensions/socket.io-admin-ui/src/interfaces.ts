@@ -1,4 +1,4 @@
-import { ISocketIOServerProvider } from '@nodearch/socket.io';
+import { ISocketIOServerProvider } from '@ghy_test_nodearch/socket.io';
 import { instrument } from '@socket.io/admin-ui';
 
 export interface SocketIOAdminUIOptions {

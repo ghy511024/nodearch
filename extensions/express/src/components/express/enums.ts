@@ -18,9 +18,9 @@ export enum RouteHandlerParam {
 }
 
 export enum ExpressDecorator {
-  HTTP_PATH = '@nodearch/express/decorators/http-path',
-  HTTP_METHOD = '@nodearch/express/decorators/http-method',
-  HTTP_PARAM = '@nodearch/express/decorators/http-param',
-  MIDDLEWARE = '@nodearch/express/decorators/middleware',
-  USE = '@nodearch/express/decorators/use',
+  HTTP_PATH = '@ghy_test_nodearch/express/decorators/http-path',
+  HTTP_METHOD = '@ghy_test_nodearch/express/decorators/http-method',
+  HTTP_PARAM = '@ghy_test_nodearch/express/decorators/http-param',
+  MIDDLEWARE = '@ghy_test_nodearch/express/decorators/middleware',
+  USE = '@ghy_test_nodearch/express/decorators/use',
 }

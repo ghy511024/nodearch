@@ -1,4 +1,4 @@
-import { Command, ICommand } from '@nodearch/command';
+import { Command, ICommand } from '@ghy_test_nodearch/command';
 
 @Command()
 export class UserCommand implements ICommand {

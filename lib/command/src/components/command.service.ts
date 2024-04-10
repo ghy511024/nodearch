@@ -1,6 +1,6 @@
 import yargs from 'yargs';
 import { hideBin } from 'yargs/helpers';
-import { AppContext, Service } from '@nodearch/core';
+import { AppContext, Service } from '@ghy_test_nodearch/core';
 import { CommandParser } from './command-parser.js';
 import { CommandConfig } from './command.config.js';
 import { CommandDecorator, ICommand } from '../index.js';

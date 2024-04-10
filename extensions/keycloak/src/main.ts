@@ -1,4 +1,4 @@
-import { App } from '@nodearch/core';
+import { App } from '@ghy_test_nodearch/core';
 import { IKeycloakOptions } from './interfaces.js';
 
 

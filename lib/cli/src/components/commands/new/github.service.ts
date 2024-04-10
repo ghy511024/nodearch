@@ -1,4 +1,4 @@
-import { Service } from '@nodearch/core';
+import { Service } from '@ghy_test_nodearch/core';
 import axios from 'axios';
 import path from 'path';
 import fs from 'node:fs/promises';

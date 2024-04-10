@@ -1,4 +1,4 @@
-import { Logger, Service } from '@nodearch/core';
+import { Logger, Service } from '@ghy_test_nodearch/core';
 import { Arguments, CommandModule } from 'yargs';
 import { CommandQuestion, ICommand } from '../decorators/interfaces.js';
 import inquirer from 'inquirer';

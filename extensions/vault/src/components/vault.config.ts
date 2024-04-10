@@ -1,4 +1,4 @@
-import { Config, ConfigManager } from "@nodearch/core";
+import { Config, ConfigManager } from "@ghy_test_nodearch/core";
 
 @Config()
 export class VaultConfig {

@@ -1,9 +1,9 @@
 {
-  "name": "@nodearch/openapi",
+  "name": "@ghy_test_nodearch/openapi",
   "entries": [
     {
       "version": "1.0.7",
-      "tag": "@nodearch/openapi_v1.0.7",
+      "tag": "@ghy_test_nodearch/openapi_v1.0.7",
       "date": "Wed, 27 Mar 2024 19:38:53 GMT",
       "comments": {
         "patch": [
@@ -15,17 +15,17 @@
         ],
         "dependency": [
           {
-            "comment": "Updating dependency \"@nodearch/core\" from `^2.1.2` to `2.1.3`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/core\" from `^2.1.2` to `2.1.3`"
           },
           {
-            "comment": "Updating dependency \"@nodearch/core\" from `2.x` to `2.1.3`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/core\" from `2.x` to `2.1.3`"
           }
         ]
       }
     },
     {
       "version": "1.0.6",
-      "tag": "@nodearch/openapi_v1.0.6",
+      "tag": "@ghy_test_nodearch/openapi_v1.0.6",
       "date": "Wed, 27 Mar 2024 14:13:04 GMT",
       "comments": {
         "patch": [
@@ -44,14 +44,14 @@
         ],
         "dependency": [
           {
-            "comment": "Updating dependency \"@nodearch/command\" from `^1.0.6` to `1.0.7`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/command\" from `^1.0.6` to `1.0.7`"
           }
         ]
       }
     },
     {
       "version": "1.0.5",
-      "tag": "@nodearch/openapi_v1.0.5",
+      "tag": "@ghy_test_nodearch/openapi_v1.0.5",
       "date": "Wed, 27 Dec 2023 16:22:14 GMT",
       "comments": {
         "patch": [
@@ -63,14 +63,14 @@
         ],
         "dependency": [
           {
-            "comment": "Updating dependency \"@nodearch/command\" from `^1.0.5` to `^1.0.6`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/command\" from `^1.0.5` to `^1.0.6`"
           }
         ]
       }
     },
     {
       "version": "1.0.4",
-      "tag": "@nodearch/openapi_v1.0.4",
+      "tag": "@ghy_test_nodearch/openapi_v1.0.4",
       "date": "Wed, 27 Dec 2023 14:09:55 GMT",
       "comments": {
         "patch": [
@@ -82,14 +82,14 @@
         ],
         "dependency": [
           {
-            "comment": "Updating dependency \"@nodearch/command\" from `^1.0.4` to `^1.0.5`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/command\" from `^1.0.4` to `^1.0.5`"
           }
         ]
       }
     },
     {
       "version": "1.0.3",
-      "tag": "@nodearch/openapi_v1.0.3",
+      "tag": "@ghy_test_nodearch/openapi_v1.0.3",
       "date": "Sun, 15 Oct 2023 22:33:54 GMT",
       "comments": {
         "patch": [
@@ -101,20 +101,20 @@
         ],
         "dependency": [
           {
-            "comment": "Updating dependency \"@nodearch/core\" from `^2.0.1` to `^2.0.2`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/core\" from `^2.0.1` to `^2.0.2`"
           },
           {
-            "comment": "Updating dependency \"@nodearch/command\" from `^1.0.3` to `^1.0.4`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/command\" from `^1.0.3` to `^1.0.4`"
           },
           {
-            "comment": "Updating dependency \"@nodearch/core\" from `2.x` to `2.0.2`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/core\" from `2.x` to `2.0.2`"
           }
         ]
       }
     },
     {
       "version": "1.0.2",
-      "tag": "@nodearch/openapi_v1.0.2",
+      "tag": "@ghy_test_nodearch/openapi_v1.0.2",
       "date": "Sun, 15 Oct 2023 19:42:51 GMT",
       "comments": {
         "patch": [
@@ -126,14 +126,14 @@
         ],
         "dependency": [
           {
-            "comment": "Updating dependency \"@nodearch/command\" from `^1.0.2` to `^1.0.3`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/command\" from `^1.0.2` to `^1.0.3`"
           }
         ]
       }
     },
     {
       "version": "1.0.1",
-      "tag": "@nodearch/openapi_v1.0.1",
+      "tag": "@ghy_test_nodearch/openapi_v1.0.1",
       "date": "Sun, 15 Oct 2023 16:38:29 GMT",
       "comments": {
         "patch": [
@@ -145,14 +145,14 @@
         ],
         "dependency": [
           {
-            "comment": "Updating dependency \"@nodearch/command\" from `^1.0.1` to `^1.0.2`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/command\" from `^1.0.1` to `^1.0.2`"
           }
         ]
       }
     },
     {
       "version": "1.0.0",
-      "tag": "@nodearch/openapi_v1.0.0",
+      "tag": "@ghy_test_nodearch/openapi_v1.0.0",
       "date": "Thu, 05 Oct 2023 19:43:23 GMT",
       "comments": {
         "major": [
@@ -164,13 +164,13 @@
         ],
         "dependency": [
           {
-            "comment": "Updating dependency \"@nodearch/core\" from `^1.4.2` to `^2.0.0`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/core\" from `^1.4.2` to `^2.0.0`"
           },
           {
-            "comment": "Updating dependency \"@nodearch/command\" from `^0.1.0` to `^1.0.0`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/command\" from `^0.1.0` to `^1.0.0`"
           },
           {
-            "comment": "Updating dependency \"@nodearch/core\" from `1.4.2` to `2.0.0`"
+            "comment": "Updating dependency \"@ghy_test_nodearch/core\" from `1.4.2` to `2.0.0`"
           }
         ]
       }

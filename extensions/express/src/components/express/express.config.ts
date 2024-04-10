@@ -1,4 +1,4 @@
-import { Config, ConfigManager } from '@nodearch/core';
+import { Config, ConfigManager } from '@ghy_test_nodearch/core';
 import { IHttpErrorsOptions } from '../errors/interfaces.js';
 import http from 'node:http';
 import https from 'node:https';

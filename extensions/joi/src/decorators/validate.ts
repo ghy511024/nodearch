@@ -1,6 +1,6 @@
 import { JoiDecorator } from '../enums.js';
 import { IValidateOptions } from '../interfaces.js';
-import { ComponentFactory } from '@nodearch/core/components';
+import { ComponentFactory } from '@ghy_test_nodearch/core/components';
 
 
 export const Validate = (schema: IValidateOptions): MethodDecorator => {

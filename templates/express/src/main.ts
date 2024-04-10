@@ -1,11 +1,11 @@
-import { App } from '@nodearch/core';
-import { ExpressApp, ExpressOAIProvider } from '@nodearch/express';
-import { JoiApp } from '@nodearch/joi';
-import { JoiExpressApp, JoiOpenApiProvider } from '@nodearch/joi-express';
-import { OpenAPIApp, OpenAPIFormat } from '@nodearch/openapi';
-import { SwaggerApp } from '@nodearch/swagger';
+import { App } from '@ghy_test_nodearch/core';
+import { ExpressApp, ExpressOAIProvider } from '@ghy_test_nodearch/express';
+import { JoiApp } from '@ghy_test_nodearch/joi';
+import { JoiExpressApp, JoiOpenApiProvider } from '@ghy_test_nodearch/joi-express';
+import { OpenAPIApp, OpenAPIFormat } from '@ghy_test_nodearch/openapi';
+import { SwaggerApp } from '@ghy_test_nodearch/swagger';
 import { getAbsoluteFSPath } from 'swagger-ui-dist';
-import { MochaApp } from '@nodearch/mocha';
+import { MochaApp } from '@ghy_test_nodearch/mocha';
 import Joi from 'joi';
 
 

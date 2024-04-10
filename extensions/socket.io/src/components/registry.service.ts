@@ -1,7 +1,7 @@
-import { AppContext, Logger, Service } from '@nodearch/core';
+import { AppContext, Logger, Service } from '@ghy_test_nodearch/core';
 import * as IO from 'socket.io';
 import { IEventHandlerInput, IMiddlewareFunction, INamespace, INamespaceInfo, INamespaceMap, ISubscriptionInfo } from '../interfaces.js';
-import { ComponentInfo, MethodParameters } from '@nodearch/core/components';
+import { ComponentInfo, MethodParameters } from '@ghy_test_nodearch/core/components';
 import { SocketIODecorator } from '../enums.js';
 
 

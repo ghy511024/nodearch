@@ -1,4 +1,4 @@
-import { Mock } from '@nodearch/mocha';
+import { Mock } from '@ghy_test_nodearch/mocha';
 import { UserRepository } from './user.repository.js';
 
 

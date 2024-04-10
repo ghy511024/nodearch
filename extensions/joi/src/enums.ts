@@ -1,4 +1,4 @@
 export enum JoiDecorator {
-  VALIDATE = '@nodearch/joi/decorators/validate',
-  SCHEMA = '@nodearch/joi/decorators/schema',
+  VALIDATE = '@ghy_test_nodearch/joi/decorators/validate',
+  SCHEMA = '@ghy_test_nodearch/joi/decorators/schema',
 }

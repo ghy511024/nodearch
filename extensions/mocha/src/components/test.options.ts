@@ -1,4 +1,4 @@
-import { ICommandBuilder } from '@nodearch/command';
+import { ICommandBuilder } from '@ghy_test_nodearch/command';
 
 
 const list = (str: any) =>

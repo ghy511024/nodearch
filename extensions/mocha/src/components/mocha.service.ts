@@ -1,4 +1,4 @@
-import { AppContext, Logger, Service } from '@nodearch/core';
+import { AppContext, Logger, Service } from '@ghy_test_nodearch/core';
 import Mocha, {Test} from 'mocha';
 import { ITestOptions } from './test.interfaces.js';
 import { TestService } from './test.service.js';

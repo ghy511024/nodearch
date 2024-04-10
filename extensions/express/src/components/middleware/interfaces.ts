@@ -1,5 +1,5 @@
 import express from 'express';
-import { IUseProvider, IUseProviderClass } from '@nodearch/core/components';
+import { IUseProvider, IUseProviderClass } from '@ghy_test_nodearch/core/components';
 
 
 export type IExpressMiddlewareHandler = (req: express.Request, res: express.Response, next: express.NextFunction) => void;
